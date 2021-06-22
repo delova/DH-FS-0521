@@ -56,6 +56,7 @@ main section article{
   height: 300px;
   background-position: center;
   background-size: cover;
+  display: inline-block;
 }
 
 section article img{
@@ -70,6 +71,7 @@ section article div{
   font-size: 20px;
   text-align: center;
   margin-top: 50px;
+  padding-top: 15px;
 }
 
 section article button{
